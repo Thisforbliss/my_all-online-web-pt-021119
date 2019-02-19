@@ -12,6 +12,6 @@ def my_all?(collection)
       false
       else
       true
-      #binding.pry
+      binding.pry
     end
 end
